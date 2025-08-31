@@ -28,7 +28,7 @@ Upload and read **PDFs or text files** directly on the website. 📄 If you enco
 Convert **image-based PDFs** into readable text with our **OCR (Optical Character Recognition)** feature. 🖼️ Save the text for your work or open it in the reader section for seamless learning. 😎
 
 ## Offline Mode
-After the first load, this dictionary works **fully offline**! 📴 No internet? No problem! Access all features anytime, anywhere. Download the offline html page version [👉🏻here👈🏻](https://drive.usercontent.google.com/download?id=1QnAlGioEmIWYsn0WK_UuhCu0mioxEwDJ&export=download&confirm=yes)
+After the first load, this dictionary works **fully offline**! 📴 No internet? No problem! Access all features anytime, anywhere. Download the offline html page version [👉🏻here👈🏻](https://drive.usercontent.google.com/download?id=1TKayxTLws6WH7GEPvO8pStKoHFKK3ya_&export=download&confirm=yes)
 
 ## Get Started
 Ready to dive into the world of Odia words? Visit the dictionary now and start exploring! 🚀  
