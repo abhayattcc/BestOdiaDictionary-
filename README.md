@@ -54,4 +54,29 @@
 - Pure client-side (no backend required)
 - Text-to-Speech using Web Speech API
 
-## 📂 Project Structure
+
+
+## 🤝 Contributing
+
+Love Odia language? Help us improve!
+
+1. Fork the repo
+2. Add new words or fix bugs
+3. Create a Pull Request
+
+Any contribution is welcome – more words = better dictionary for everyone!
+
+## 📜 License
+
+This project is open source under the **MIT License**.
+
+## ⭐ Star Us!
+
+If this dictionary helped you, please give the repo a ⭐ – it helps other Odia students discover it!
+
+---
+
+**Made with ❤️ for Odisha**  
+**Best Odia English Hindi Dictionary | Free Online Odia Dictionary with Speech**
+
+*Keywords: Odia dictionary, Odia English dictionary, Odia Hindi dictionary, free Odia dictionary online, Odia dictionary with speech, best Odia dictionary 2026*
