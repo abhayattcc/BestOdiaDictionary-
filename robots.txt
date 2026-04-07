@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://github.com/abhayattcc/Best-odia-dictionary/sitemap.xml
+Sitemap: https://github.com/abhayattcc/Best-odia-dictionary/blob/main/sitemap.xml
