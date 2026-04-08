@@ -1,4 +1,4 @@
-# 🏆 Best Odia English Hindi Dictionary – Free Online Dictionary with Speech
+# 🏆 Best Odia Dictionary – Free Online Dictionary with Speech
 
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/abhayattcc/Best-odia-dictionary?style=flat-square)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/abhayattcc/Best-odia-dictionary?style=flat-square)
@@ -77,6 +77,6 @@ If this dictionary helped you, please give the repo a ⭐ – it helps other Odi
 ---
 
 **Made with ❤️ for Odisha**  
-**Best Odia English Hindi Dictionary | Free Online Odia Dictionary with Speech**
+**Best Odia Dictionary | Free Online Odia Dictionary with Speech**
 
-*Keywords: Odia dictionary, Odia English dictionary, Odia Hindi dictionary, free Odia dictionary online, Odia dictionary with speech, best Odia dictionary 2026*
+*Keywords: Best Odia dictionary, best Odia dictionary 2026, best odia dictionary in the world, best odia dictionary in odisha, best odia dictionary in ganjam, best odia dictionary in India, best odia dictionary with speech, best odia dictionary with copy translate*
