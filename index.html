@@ -1443,31 +1443,42 @@ function loadSuggestions(word, targetElement = document.getElementById('suggesti
     }
 
     suggestions = [...new Set(suggestions)];
-    if (exactMatch) {
-        suggestions = suggestions.filter(s => !s.startsWith('<img') && s.toLowerCase() !== exactMatch.toLowerCase());
-        suggestions.unshift(exactMatch);
-    }
-    suggestions = suggestions.slice(0, 10);
 
-    if (suggestions.length > 0) {
-        targetElement.innerHTML = suggestions.map(s => 
-            `<li onclick="selectSuggestion('${s.replace(/'/g, "\\'")}', ${targetElement === document.getElementById('suggestions') ? 'true' : 'false'})">${s}</li>`
-        ).join('');
-        targetElement.classList.remove('hidden');
-        targetElement.classList.add('visible');
-        if (targetElement === document.getElementById('suggestions')) {
-            document.getElementById('results').style.display = 'none';
-        }
-    } else {
+    // ── CHANGED BLOCK ──────────────────────────────────────────────
+    if (exactMatch) {
+        // Exact word found: hide suggestions and show result directly
         targetElement.classList.remove('visible');
         targetElement.classList.add('hidden');
         if (targetElement === document.getElementById('suggestions')) {
+            document.getElementById('searchInput').value = exactMatch;
             document.getElementById('results').style.display = 'block';
-            searchWord(word);
+            searchWord(exactMatch);
         } else {
-            targetElement.innerHTML = `<div>No suggestions found.</div>`;
+            searchWord(exactMatch, document.getElementById('popup-content'));
+        }
+    } else {
+        suggestions = suggestions.slice(0, 10);
+        if (suggestions.length > 0) {
+            targetElement.innerHTML = suggestions.map(s =>
+                `<li onclick="selectSuggestion('${s.replace(/'/g, "\\'")}', ${targetElement === document.getElementById('suggestions') ? 'true' : 'false'})">${s}</li>`
+            ).join('');
+            targetElement.classList.remove('hidden');
+            targetElement.classList.add('visible');
+            if (targetElement === document.getElementById('suggestions')) {
+                document.getElementById('results').style.display = 'none';
+            }
+        } else {
+            targetElement.classList.remove('visible');
+            targetElement.classList.add('hidden');
+            if (targetElement === document.getElementById('suggestions')) {
+                document.getElementById('results').style.display = 'block';
+                searchWord(word);
+            } else {
+                targetElement.innerHTML = `<div>No suggestions found.</div>`;
+            }
         }
     }
+    // ── END CHANGED BLOCK ──────────────────────────────────────────
 }
 
 function selectSuggestion(word, isDictionarySection) {
@@ -2304,5 +2315,6 @@ async function initializeApp() {
 
 initializeApp();
 </script>
+
 </body>
 </html>
