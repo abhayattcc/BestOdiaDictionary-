@@ -1,6 +1,6 @@
-# 🖼️ **Image Dictionary by abhayattc Online/Offline with 4 Lakhs Words** 📖✨
+# 🖼️ **Image Dictionary by abhayattcc Online/Offline with 4 Lakhs Words** 📖✨
 
-**Best Free Online & Offline Image Dictionary by abhayattc – 400,000+ Words with Pictures, Speech & Visual Learning**
+**Best Free Online & Offline Image Dictionary by abhayattcc – 400,000+ Words with Pictures, Speech & Visual Learning**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge&logo=web)](https://abhayattcc.github.io/image_dictionary/)  
 [![Official Blog](https://img.shields.io/badge/Official%20Blog-Read%20Now-orange?style=for-the-badge&logo=blogger)](https://image-dictionary.blogspot.com/)  
@@ -13,17 +13,17 @@
 
 **Official Links:**  
 - **Main App (GitHub Pages):** [https://abhayattcc.github.io/image_dictionary/](https://abhayattcc.github.io/image_dictionary/)  
-- **Companion Blog:** [https://image-dictionary.blogspot.com/](https://image-dictionary.blogspot.com/) – Home of “image dictionary by abhayattc online/offline free” with 4 lakhs words  
+- **Companion Blog:** [https://image-dictionary.blogspot.com/](https://image-dictionary.blogspot.com/) – Home of “image dictionary by abhayattcc online/offline free” with 4 lakhs words  
 
-> 💡 **Search no more!** This is the ultimate **image dictionary by abhayattc** – online or offline, with 400,000+ words, high-quality images, native speech, and zero ads. Perfect for Odia learners, students, kids, teachers, and visual vocabulary builders.
+> 💡 **Search no more!** This is the ultimate **image dictionary by abhayattcc** – online or offline, with 400,000+ words, high-quality images, native speech, and zero ads. Perfect for Odia learners, students, kids, teachers, and visual vocabulary builders.
 
-**Why it ranks #1 for “image dictionary by abhayattc” & “picture dictionary online free”:**  
+**Why it ranks #1 for “image dictionary by abhayattcc” & “picture dictionary online free”:**  
 400,000+ word database, PWA offline mode, instant speech, editable entries, and constant updates from abhayattc (Bhubaneswar, Odisha).
 
 ---
 
 ## 📋 Table of Contents
-- [✨ About Image Dictionary by abhayattc](#-about-image-dictionary-by-abhayattc)  
+- [✨ About Image Dictionary by abhayattcc](#-about-image-dictionary-by-abhayattc)  
 - [🚀 Key Features (Why It’s the Best)](#-key-features-why-its-the-best)  
 - [🎯 Live Demo & Quick Access](#-live-demo--quick-access)  
 - [📸 How It Works – Step-by-Step Visual Guide](#-how-it-works--step-by-step-visual-guide)  
@@ -39,19 +39,19 @@
 
 ---
 
-## ✨ About Image Dictionary by abhayattc
+## ✨ About Image Dictionary by abhayattcc
 
-Welcome to the **Image Dictionary by abhayattc Online/Offline with 4 Lakhs Words** – the most powerful **free image dictionary** created by abhayattc!
+Welcome to the **Image Dictionary by abhayattcc Online/Offline with 4 Lakhs Words** – the most powerful **free image dictionary** created by abhayattcc!
 
 This GitHub Pages app at **[https://abhayattcc.github.io/image_dictionary/](https://abhayattcc.github.io/image_dictionary/)** delivers **400,000+ words** with stunning pictures, instant Text-to-Speech (Odia + English + Hindi), editable dictionary entries, and a dedicated Reader Section.
 
-Created by **abhayattc** from Bhubaneswar, Odisha, India, this **image dictionary** works **100% online and offline**. It is fully synced with the official blog at **[https://image-dictionary.blogspot.com/](https://image-dictionary.blogspot.com/)** – the largest free resource for “image dictionary by abhayattc online/offline free” containing **4 lakhs words** with meanings and advanced learning tools.
+Created by **abhayattcc** from Bhubaneswar, Odisha, India, this **image dictionary** works **100% online and offline**. It is fully synced with the official blog at **[https://image-dictionary.blogspot.com/](https://image-dictionary.blogspot.com/)** – the largest free resource for “image dictionary by abhayattcc online/offline free” containing **4 lakhs words** with meanings and advanced learning tools.
 
 **Perfect for:**
 - Kids & visual learners
 - Odia language students & native speakers
 - ESL / language teachers & homeschool parents
-- Anyone searching **“image dictionary by abhayattc”**, **“picture dictionary online free”**, **“4 lakhs words dictionary”**, or **“odia image dictionary offline”**
+- Anyone searching **“image dictionary by abhayattcc”**, **“picture dictionary online free”**, **“4 lakhs words dictionary”**, or **“odia image dictionary offline”**
 
 Words + beautiful pictures + speech + 400,000+ entries = **permanent memory**. No signup. No ads. Pure learning joy.
 
@@ -76,7 +76,7 @@ Words + beautiful pictures + speech + 400,000+ entries = **permanent memory**. N
 
 ## 🎯 Live Demo & Quick Access
 
-**🔗 Image Dictionary by abhayattc (GitHub Pages):**  
+**🔗 Image Dictionary by abhayattcc (GitHub Pages):**  
 [https://abhayattcc.github.io/image_dictionary/](https://abhayattcc.github.io/image_dictionary/)
 
 **🔗 Official Blog (4 Lakhs Words):**  
@@ -88,7 +88,7 @@ Words + beautiful pictures + speech + 400,000+ entries = **permanent memory**. N
 3. Explore Reader Section
 4. Visit the blog for full 400,000+ words & meanings
 
-**Pro Tip:** Bookmark both links – your complete **image dictionary by abhayattc online/offline** ecosystem with 4 lakhs words!
+**Pro Tip:** Bookmark both links – your complete **image dictionary by abhayattcc online/offline** ecosystem with 4 lakhs words!
 
 ---
 
